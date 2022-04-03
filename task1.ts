@@ -5,12 +5,6 @@ type user = {
     name: string;
     type: string;
 }
-type admin = {
-    id: number;
-    name: string;
-    type: string;
-}
-
 const arr1: any[] = [
     {"id": 143952, "role": "admin", "name": "Evelyn Ashwoon"},
     {"id": 88784, "role": "admin", "name": "Harper Schwager"},
